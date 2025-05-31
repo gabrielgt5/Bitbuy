@@ -1,0 +1,4 @@
+praw
+vaderSentiment
+requests
+python-dotenv
